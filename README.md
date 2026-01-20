@@ -7,7 +7,11 @@
 - install reactb router dom
 - create Broser router > Routes > Route /Body > RouteChildren
 - create an outlet in your body component
-
+-create a footer
+-create a login page 
+-install axios
+cors- install cors in backened => add middlw eare to app with configuration (credentials and origin)
+-whenver you are making  api call so pass axios +> with true credentials
 
 
 
@@ -29,6 +33,6 @@
 Body 
     Navbar 
      route=/ => Feed
- route=/Login = feed
+ route=/Login = feedgit 
  route=/Profile= profile
  route=/connection = connectiom
