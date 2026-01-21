@@ -12,6 +12,16 @@
 -install axios
 cors- install cors in backened => add middlw eare to app with configuration (credentials and origin)
 -whenver you are making  api call so pass axios +> with true credentials
+-install redux toolkit +rduxreact
+- configure store= provider = createstre =m and add reducer to store
+-add redux devtools in dhrome
+-login and see if data us coming cool
+-navabar should update 
+-refractor our code to add constant file +create a component folder
+-you should not be access other routes without login
+-if token is not preset , redirect to login
+-logout feature
+-
 
 
 
